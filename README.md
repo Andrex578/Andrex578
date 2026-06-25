@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @andrex578
-- 👀 I’m interested in programation
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- 👋 Olá meu nome é Stepdark7
+- 👀 Eu estudo desenvolimento 
+-    de sistemas
+- 🌱 Eu estudo html & css
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrex578&show_icons=true&theme=tokyonight)
