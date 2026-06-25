@@ -7,14 +7,12 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
+      <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=Andrex578&show_icons=true&theme=tokyonight" alt="Stepdark7's GitHub Stats">
       </td>
-      <td>
-        <img src="http://googleusercontent.com/image_collection/image_retrieval/5139515788928956929_0" alt="David Martinez Sandevistan" width="250">
+      <td valign="top">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcm93Znd0YmE0M3R4dW96M3g0Ym95b3g0YndvOHZ6Y3d5OHZ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLqqOImYYw/giphy.gif" alt="David Martinez Sandevistan" width="380">
       </td>
     </tr>
   </table>
 </div>
-
-
