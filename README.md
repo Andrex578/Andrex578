@@ -11,7 +11,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Andrex578&show_icons=true&theme=tokyonight" alt="Stepdark7's GitHub Stats">
       </td>
       <td valign="top">
-        <img src="david.gif" alt="David Martinez Sandevistan" width="380">
+        <img src="david.gif" alt="David Martinez Sandevistan" width="200" height="250">
       </td>
     </tr>
   </table>
